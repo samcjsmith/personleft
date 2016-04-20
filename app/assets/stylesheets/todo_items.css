@@ -1,0 +1,14 @@
+
+body{
+  background-color: yellow;
+  font-style: oblique;
+  font-size: 25px;
+  text-align: center;
+}
+#blah {
+  text-align: center;
+  color: white;
+  font-style: bold;
+  font-size: 25px;
+  margin: 0 auto;
+}
